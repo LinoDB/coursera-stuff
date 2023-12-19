@@ -1,2 +1,2 @@
-# coursera-stuff
-Just a repo to do Coursera course work.
+# Coursera Stuff
+Just a repo to do Coursera course work. This is a little text update :)
