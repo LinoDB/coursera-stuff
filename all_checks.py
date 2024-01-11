@@ -4,6 +4,8 @@ import os
 import shutil
 import sys
 
+"""Testing stuffz"""
+
 def check_reboot():
     """Returns True if the computer has a pending reboot."""
     return os.path.exists("/run/reboot-required")
